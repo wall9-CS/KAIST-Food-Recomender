@@ -53,9 +53,8 @@ This food recommendation system uses the **NLTK library** and a structured **JSO
 
 ## ⚖️ Similarity Calculation: Jaccard Index
 
-\[
-\text{Jaccard}(A, B) = \frac{|A \cap B|}{|A \cup B|}
-\]
+**Jaccard Similarity**:  
+$Jaccard(A, B) = \frac{|A \cap B|}{|A \cup B|}$
 
 Where:
 - \( A \): user keyword set
