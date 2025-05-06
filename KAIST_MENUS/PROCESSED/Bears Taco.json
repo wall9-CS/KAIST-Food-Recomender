@@ -1,0 +1,105 @@
+{
+    "Taco": {
+      "temperature": "hot",
+      "taste": ["savory", "spicy"],
+      "ingredients": ["tortilla", "beef", "lettuce", "cheese"],
+      "tags": ["mexican", "handheld", "portable"],
+      "nutrition": {
+        "carbs": 40,
+        "protein": 18,
+        "fat": 15,
+        "calories": 790
+      },
+      "price": 7900,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    },
+    "Burrito": {
+      "temperature": "hot",
+      "taste": ["rich", "spicy"],
+      "ingredients": ["tortilla", "rice", "beans", "beef", "sour cream"],
+      "tags": ["mexican", "hearty", "wrap"],
+      "nutrition": {
+        "carbs": 65,
+        "protein": 22,
+        "fat": 20,
+        "calories": 850
+      },
+      "price": 8500,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    },
+    "Burrito Bowl": {
+      "temperature": "hot",
+      "taste": ["savory", "spicy"],
+      "ingredients": ["rice", "beans", "beef", "salsa", "cheese"],
+      "tags": ["mexican", "bowl", "gluten-free"],
+      "nutrition": {
+        "carbs": 70,
+        "protein": 24,
+        "fat": 18,
+        "calories": 890
+      },
+      "price": 8900,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    },
+    "Quesadilla": {
+      "temperature": "hot",
+      "taste": ["cheesy", "savory"],
+      "ingredients": ["tortilla", "cheese", "chicken"],
+      "tags": ["mexican", "grilled", "snack"],
+      "nutrition": {
+        "carbs": 45,
+        "protein": 20,
+        "fat": 25,
+        "calories": 790
+      },
+      "price": 7900,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    },
+    "Enchilada": {
+      "temperature": "hot",
+      "taste": ["rich", "spicy"],
+      "ingredients": ["tortilla", "enchilada sauce", "chicken", "cheese"],
+      "tags": ["mexican", "baked", "saucy"],
+      "nutrition": {
+        "carbs": 60,
+        "protein": 25,
+        "fat": 28,
+        "calories": 1090
+      },
+      "price": 10900,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    },
+    "Chimichanga": {
+      "temperature": "hot",
+      "taste": ["crispy", "spicy"],
+      "ingredients": ["fried tortilla", "beef", "cheese", "beans"],
+      "tags": ["mexican", "fried", "bold-flavor"],
+      "nutrition": {
+        "carbs": 50,
+        "protein": 23,
+        "fat": 30,
+        "calories": 990
+      },
+      "price": 9900,
+      "restaurant": {
+        "name": "Bears Taco",
+        "location": "North"
+      }
+    }
+  }
+  
