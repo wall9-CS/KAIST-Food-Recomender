@@ -1,0 +1,450 @@
+[
+    {
+        "menu_name": "Beef Rice Bowl",
+        "price": "6600",
+        "taste": "savory, meaty, classic",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chicken Breast Rice Bowl",
+        "price": "6400",
+        "taste": "mild, savory, lean",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seasoned Chicken Rice Bowl",
+        "price": "6400",
+        "taste": "savory, spiced, juicy",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Chicken Rice Bowl",
+        "price": "6100",
+        "taste": "spicy, savory, hot",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "K-Spicy Chicken Rice Bowl",
+        "price": "6200",
+        "taste": "spicy, sweet, Korean-style",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Bibimbap",
+        "price": "6500",
+        "taste": "savory, mixed, classic",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetarian Bibimbap",
+        "price": "6000",
+        "taste": "fresh, healthy, mild",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegan Minced Meat Curry",
+        "price": "6000",
+        "taste": "mild, plant-based, comforting",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Curry",
+        "price": "6500",
+        "taste": "mild, meaty, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seasoned Chicken Curry",
+        "price": "6200",
+        "taste": "savory, creamy, spiced",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Burrito",
+        "price": "6000",
+        "taste": "savory, meaty, warm",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chicken Breast Burrito",
+        "price": "5800",
+        "taste": "mild, creamy, lean",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chicken Breast + Rice Burrito",
+        "price": "6200",
+        "taste": "filling, savory, hearty",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seasoned Chicken Burrito",
+        "price": "5800",
+        "taste": "spiced, savory, juicy",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seasoned Chicken + Rice Burrito",
+        "price": "6200",
+        "taste": "spicy, hearty, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetarian Burrito",
+        "price": "5500",
+        "taste": "fresh, plant-based, mild",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "vegetables",
+            "protein"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "490"
+        },
+        "allergens": [
+            "soy",
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Pulbitmaru",
+            "location": "N"
+        }
+    }
+]
