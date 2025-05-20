@@ -1,0 +1,226 @@
+[
+    {
+        "menu_name": "Spicy Pork Set",
+        "price": "6700",
+        "taste": [
+            "piquant.s.01",
+            "mouth-watering.s.01",
+            "full-bodied.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Soy Sauce Pork Set",
+        "price": "6700",
+        "taste": [
+            "sweetness.n.02",
+            "salty.s.03",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ramen Soft Tofu Stew",
+        "price": "6000",
+        "taste": [
+            "piquant.s.01",
+            "comfort.v.02",
+            "hearty.s.04"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Red Soft Tofu Stew Set",
+        "price": "6200",
+        "taste": [
+            "piquant.s.01",
+            "mouth-watering.s.01",
+            "smooth.a.03"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "White Soft Tofu Stew Set",
+        "price": "5700",
+        "taste": [
+            "balmy.s.02",
+            "abstemious.s.02",
+            "comfort.v.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Soft Tofu Stew Set",
+        "price": "6000",
+        "taste": [
+            "piquant.s.01",
+            "lemony.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Army Soft Tofu Stew Set",
+        "price": "7500",
+        "taste": [
+            "full-bodied.s.01",
+            "piquant.s.01",
+            "meaty.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "soft tofu",
+            "soup base",
+            "rice.n.01"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "16",
+            "fat": "11",
+            "calories": "460"
+        },
+        "allergens": [
+            "soy.n.04",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Jesoon",
+            "location": "N"
+        }
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "menu_name": "Spicy Ox Bone Noodle Soup",
+        "price": "7500",
+        "taste": [
+            "piquant.s.01",
+            "full-bodied.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ox Bone Noodle Soup",
+        "price": "7000",
+        "taste": [
+            "balmy.s.02",
+            "full-bodied.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Dumplings",
+        "price": "4000",
+        "taste": [
+            "balmy.s.02",
+            "mouth-watering.s.01",
+            "juicy.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Insang Sundae Soup",
+        "price": "7500",
+        "taste": [
+            "meaty.a.01",
+            "mouth-watering.s.01",
+            "umami"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ox Bone Yukgaejang",
+        "price": "8000",
+        "taste": [
+            "piquant.s.01",
+            "peppery.s.01",
+            "hearty.s.04"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Hangover Soup",
+        "price": "8000",
+        "taste": [
+            "piquant.s.01",
+            "lemony.s.01",
+            "calefacient.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Insang Seolleongtang",
+        "price": "7000",
+        "taste": [
+            "milky.s.01",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Large Seolleongtang",
+        "price": "9000",
+        "taste": [
+            "milky.s.01",
+            "mouth-watering.s.01",
+            "hearty.s.04"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Tendon Seolleongtang",
+        "price": "9000",
+        "taste": [
+            "full-bodied.s.01",
+            "gelatinous.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Bibim Naengmyeon",
+        "price": "7000",
+        "taste": [
+            "piquant.s.01",
+            "lemony.s.01",
+            "chewy.s.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Naengmyeon",
+        "price": "7000",
+        "taste": [
+            "cold.n.03",
+            "lemony.s.01",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "beef broth",
+            "noodle.n.01"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat.n.02"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    }
+]

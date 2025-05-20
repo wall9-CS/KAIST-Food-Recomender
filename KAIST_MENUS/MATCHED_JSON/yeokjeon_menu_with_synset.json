@@ -1,0 +1,1055 @@
+[
+    {
+        "menu_name": "Yeokjeon Pork Cutlet",
+        "price": "8500",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01",
+            "classical.s.05"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Double Cheese Pork Cutlet",
+        "price": "9000",
+        "taste": [
+            "bum.s.01",
+            "full-bodied.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Udon",
+        "price": "6000",
+        "taste": [
+            "piquant.s.01",
+            "hot.s.09",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Udon",
+        "price": "6500",
+        "taste": [
+            "cold.n.03",
+            "abstemious.s.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetable Tempura Udon",
+        "price": "6500",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01",
+            "abstemious.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shrimp Tempura Udon",
+        "price": "7000",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01",
+            "seafood.n.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Assorted Fish Cake Udon",
+        "price": "7000",
+        "taste": [
+            "chewy.s.02",
+            "mouth-watering.s.01",
+            "umami"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Buckwheat Noodles",
+        "price": "6500",
+        "taste": [
+            "cold.n.03",
+            "lemony.s.01",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Flat Buckwheat Noodles",
+        "price": "6500",
+        "taste": [
+            "chewy.s.02",
+            "nutty.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Chicken Mayo Rice",
+        "price": "7000",
+        "taste": [
+            "piquant.s.01",
+            "creamy.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pork Cutlet Rice Bowl",
+        "price": "7000",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Pork Rice Bowl",
+        "price": "7000",
+        "taste": [
+            "piquant.s.01",
+            "mouth-watering.s.01",
+            "hearty.s.04"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Yurin Pork Cutlet",
+        "price": "9000",
+        "taste": [
+            "sweetness.n.02",
+            "lemony.s.01",
+            "crisp.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Bulgogi Kimchi Rice",
+        "price": "7000",
+        "taste": [
+            "mouth-watering.s.01",
+            "piquant.s.01",
+            "lemony.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Curry Rice Bowl",
+        "price": "7000",
+        "taste": [
+            "balmy.s.02",
+            "mouth-watering.s.01",
+            "comfort.v.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mini Chicken Rice Bowl",
+        "price": "3500",
+        "taste": [
+            "balmy.s.02",
+            "mouth-watering.s.01",
+            "tender.v.04"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mini Pollack Roe Rice Bowl",
+        "price": "3000",
+        "taste": [
+            "salty.s.03",
+            "umami",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pork Rib Flavor Fries",
+        "price": "3500",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01",
+            "meaty.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Side Pork Cutlet",
+        "price": "3500",
+        "taste": [
+            "crisp.s.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Onion Mayo Chicken",
+        "price": "3500",
+        "taste": [
+            "creamy.s.01",
+            "sweetness.n.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetable Tempura",
+        "price": "2500",
+        "taste": [
+            "crisp.s.02",
+            "abstemious.s.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Fish Cake",
+        "price": "2500",
+        "taste": [
+            "piquant.s.01",
+            "chewy.s.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "King Fried Dumpling",
+        "price": "2500",
+        "taste": [
+            "crisp.s.02",
+            "juicy.a.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Assorted Pork Cutlet",
+        "price": "9500",
+        "taste": [
+            "crisp.s.02",
+            "bum.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Glass Noodle Roll",
+        "price": "2500",
+        "taste": [
+            "piquant.s.01",
+            "crisp.s.02",
+            "chewy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shrimp Tempura",
+        "price": "2500",
+        "taste": [
+            "crisp.s.02",
+            "seafood.n.01",
+            "abstemious.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Cheese Rice Ball",
+        "price": "2500",
+        "taste": [
+            "piquant.s.01",
+            "bum.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tuna Mayo Rice Ball",
+        "price": "2500",
+        "taste": [
+            "creamy.s.01",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "rice.n.01",
+            "meat.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Grilled Green Onion Chicken Noodles",
+        "price": "6500",
+        "taste": [
+            "mouth-watering.s.01",
+            "smoky.s.02",
+            "chewy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Yeokjeon Spicy Mixed Noodles",
+        "price": "6500",
+        "taste": [
+            "piquant.s.01",
+            "lemony.s.01",
+            "cold.n.03"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Udon Tteokbokki",
+        "price": "6000",
+        "taste": [
+            "chewy.s.02",
+            "piquant.s.01",
+            "sweetness.n.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Classic Udon",
+        "price": "4500",
+        "taste": [
+            "balmy.s.02",
+            "mouth-watering.s.01",
+            "warm.a.03"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Udon",
+        "price": "5500",
+        "taste": [
+            "piquant.s.01",
+            "lemony.s.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Fish Cake Udon",
+        "price": "5500",
+        "taste": [
+            "chewy.s.02",
+            "balmy.s.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "noodle.n.01",
+            "broth.n.01"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "11",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "soy.n.04"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Yeokjeon",
+            "location": "N"
+        }
+    }
+]

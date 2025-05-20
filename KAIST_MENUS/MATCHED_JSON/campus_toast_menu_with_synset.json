@@ -1,0 +1,622 @@
+[
+    {
+        "menu_name": "Egg Toast",
+        "price": "1800",
+        "taste": [
+            "balmy.s.02",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetable Toast",
+        "price": "2000",
+        "taste": [
+            "crunchy",
+            "fresh.a.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ham Cheese Toast",
+        "price": "2300",
+        "taste": [
+            "mouth-watering.s.01",
+            "bum.s.01",
+            "salty.s.03"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Toast",
+        "price": "2800",
+        "taste": [
+            "sweetness.n.02",
+            "eggy",
+            "full-bodied.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Potato Toast",
+        "price": "3000",
+        "taste": [
+            "starchy.a.01",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Potato Toast",
+        "price": "3500",
+        "taste": [
+            "sweetness.n.02",
+            "mouth-watering.s.01",
+            "balmy.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Galbi Toast",
+        "price": "3500",
+        "taste": [
+            "sweetness.n.02",
+            "smoky.s.02",
+            "meaty.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Potato Galbi Toast",
+        "price": "4000",
+        "taste": [
+            "sweetness.n.02",
+            "mouth-watering.s.01",
+            "meaty.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hot Bacon Toast",
+        "price": "3000",
+        "taste": [
+            "salty.s.03",
+            "piquant.s.01",
+            "smoky.s.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hot Bulgogi Toast",
+        "price": "3000",
+        "taste": [
+            "piquant.s.01",
+            "mouth-watering.s.01",
+            "sweetness.n.02"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hot Chicken Toast",
+        "price": "3000",
+        "taste": [
+            "piquant.s.01",
+            "mouth-watering.s.01",
+            "juicy.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pork Cutlet Toast",
+        "price": "3000",
+        "taste": [
+            "crisp.s.02",
+            "meaty.a.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Yum Tteok-galbi Toast",
+        "price": "3500",
+        "taste": [
+            "chewy.s.02",
+            "sweetness.n.02",
+            "meaty.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Charcoal Bulgogi Toast",
+        "price": "3500",
+        "taste": [
+            "smoky.s.02",
+            "sweetness.n.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pizza Toast",
+        "price": "3000",
+        "taste": [
+            "bum.s.01",
+            "mouth-watering.s.01",
+            "lemony.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Gold Pizza Toast",
+        "price": "3500",
+        "taste": [
+            "bum.s.01",
+            "sweetness.n.02",
+            "full-bodied.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Bulgogi Pizza Toast",
+        "price": "3500",
+        "taste": [
+            "bum.s.01",
+            "meaty.a.01",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Plain Bagel",
+        "price": "3000",
+        "taste": [
+            "chewy.s.02",
+            "balmy.s.02",
+            "slightly sweet"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ham Cheese Bagel",
+        "price": "3500",
+        "taste": [
+            "bum.s.01",
+            "salty.s.03",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Charcoal Bulgogi Bagel",
+        "price": "4500",
+        "taste": [
+            "meaty.a.01",
+            "smoky.s.02",
+            "mouth-watering.s.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "bread.n.01",
+            "egg.n.02"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "12",
+            "fat": "10",
+            "calories": "420"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.v.01"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Campus Toast",
+            "location": "N"
+        }
+    }
+]
