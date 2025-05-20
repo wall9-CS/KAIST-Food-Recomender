@@ -1,0 +1,180 @@
+[
+    {
+        "menu_name": "Taco",
+        "temperature": "hot",
+        "taste": "savory, spicy, fresh",
+        "ingredients": [
+            "tortilla",
+            "lettuce",
+            "salsa",
+            "meat",
+            "cheese"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "500"
+        },
+        "price": "7900",
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Burrito",
+        "temperature": "hot",
+        "taste": "savory, rich, spicy",
+        "ingredients": [
+            "tortilla",
+            "rice",
+            "beans",
+            "meat",
+            "cheese",
+            "salsa"
+        ],
+        "nutrition": {
+            "carbs": "60",
+            "proteins": "22",
+            "fat": "18",
+            "calories": "650"
+        },
+        "price": "8500",
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Burrito Bowl",
+        "temperature": "hot",
+        "taste": "savory, hearty, spicy",
+        "ingredients": [
+            "rice",
+            "beans",
+            "meat",
+            "cheese",
+            "salsa",
+            "vegetables"
+        ],
+        "nutrition": {
+            "carbs": "55",
+            "proteins": "24",
+            "fat": "16",
+            "calories": "600"
+        },
+        "price": "8900",
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Quesadilla",
+        "temperature": "hot",
+        "taste": "cheesy, savory, soft",
+        "ingredients": [
+            "tortilla",
+            "cheese",
+            "meat",
+            "vegetables"
+        ],
+        "nutrition": {
+            "carbs": "45",
+            "proteins": "20",
+            "fat": "15",
+            "calories": "580"
+        },
+        "price": "7900",
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Enchilada",
+        "temperature": "hot",
+        "taste": "rich, cheesy, spicy",
+        "ingredients": [
+            "tortilla",
+            "meat",
+            "cheese",
+            "enchilada sauce"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "23",
+            "fat": "17",
+            "calories": "620"
+        },
+        "price": "10900",
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chimichanga",
+        "temperature": "hot",
+        "taste": "crispy, rich, savory",
+        "ingredients": [
+            "fried tortilla",
+            "meat",
+            "cheese",
+            "sour cream"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "25",
+            "fat": "20",
+            "calories": "700"
+        },
+        "price": "9900",
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Mexican",
+            "restaurant_name": "Bears Taco",
+            "location": "N"
+        }
+    }
+]

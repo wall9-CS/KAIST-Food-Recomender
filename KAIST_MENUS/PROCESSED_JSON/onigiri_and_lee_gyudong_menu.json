@@ -1,0 +1,650 @@
+[
+    {
+        "menu_name": "Furikake Onigiri",
+        "price": "1500",
+        "taste": "salty, nutty, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Bossam Kimchi Onigiri",
+        "price": "1500",
+        "taste": "spicy, tangy, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Tuna Onigiri",
+        "price": "2000",
+        "taste": "spicy, umami, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tteokgalbi Onigiri",
+        "price": "2000",
+        "taste": "sweet, meaty, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Sweet Charcoal Chicken Onigiri",
+        "price": "2000",
+        "taste": "sweet, smoky, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Roe Onigiri",
+        "price": "2000",
+        "taste": "spicy, salty, umami",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tuna Salad",
+        "price": "2000",
+        "taste": "creamy, mild, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chicken Salad",
+        "price": "2000",
+        "taste": "mild, savory, refreshing",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Anchovy Onigiri",
+        "price": "2300",
+        "taste": "salty, nutty, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Smoked Spicy Chicken",
+        "price": "2000",
+        "taste": "smoky, spicy, juicy",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Grilled Spam",
+        "price": "2300",
+        "taste": "salty, savory, fatty",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Spam",
+        "price": "2300",
+        "taste": "salty, spicy, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Sanuki Udon",
+        "price": "6000",
+        "taste": "light, savory, chewy",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Nagasaki Jjamppong",
+        "price": "6000",
+        "taste": "milky, seafood, spicy",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Seafood Jjamppong",
+        "price": "6000",
+        "taste": "spicy, seafood, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vegetable Tempura Udon",
+        "price": "5500",
+        "taste": "crispy, light, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seafood Garae Udon",
+        "price": "6000",
+        "taste": "chewy, seafood, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kimchi Fish Cake Udon",
+        "price": "6000",
+        "taste": "spicy, tangy, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Fish Cake Udon",
+        "price": "6000",
+        "taste": "mild, chewy, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shrimp Tempura Udon",
+        "price": "6500",
+        "taste": "crispy, savory, seafood",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chicken Mayo Udon",
+        "price": "6500",
+        "taste": "creamy, savory, sweet",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pork Cutlet Udon",
+        "price": "6500",
+        "taste": "crispy, savory, rich",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Potato Croquette Udon",
+        "price": "5000",
+        "taste": "crispy, starchy, mild",
+        "temperature": "hot",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Buckwheat Noodles / Cold Udon",
+        "price": "5500",
+        "taste": "cold, refreshing, tangy",
+        "temperature": "cold",
+        "ingredients": [
+            "rice",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "47",
+            "proteins": "13",
+            "fat": "9",
+            "calories": "440"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean & Japanese Fusion",
+            "restaurant_name": "Onigiri and Lee Gyudong",
+            "location": "N"
+        }
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "menu_name": "Jjajangmyeon",
+        "price": "5000",
+        "taste": "sweet, savory, thick",
+        "temperature": "hot",
+        "ingredients": [
+            "noodles",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "510"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Chinese",
+            "restaurant_name": "Well Chai",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Gan Jjajang",
+        "price": "6000",
+        "taste": "less sweet, savory, rich",
+        "temperature": "hot",
+        "ingredients": [
+            "noodles",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "510"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Chinese",
+            "restaurant_name": "Well Chai",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tangsuyuk",
+        "price": "10000",
+        "taste": "sweet, sour, crispy",
+        "temperature": "hot",
+        "ingredients": [
+            "noodles",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "510"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Chinese",
+            "restaurant_name": "Well Chai",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Jjamppong",
+        "price": "6000",
+        "taste": "spicy, seafood, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "noodles",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "510"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Chinese",
+            "restaurant_name": "Well Chai",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Jjamppong Rice",
+        "price": "6000",
+        "taste": "spicy, savory, hearty",
+        "temperature": "hot",
+        "ingredients": [
+            "noodles",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "510"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Chinese",
+            "restaurant_name": "Well Chai",
+            "location": "N"
+        }
+    }
+]

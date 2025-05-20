@@ -1,0 +1,148 @@
+[
+    {
+        "menu_name": "Butter Roe Rice Bowl",
+        "temperature": "hot",
+        "taste": "buttery, savory, mild",
+        "ingredients": [
+            "rice",
+            "butter",
+            "flying fish roe",
+            "seaweed flakes"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "12",
+            "fat": "14",
+            "calories": "480"
+        },
+        "price": "5000",
+        "allergens": [
+            "fish",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Byeoli Dali",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Flying Fish Roe Plus Rice Bowl",
+        "temperature": "hot",
+        "taste": "savory, salty, nutty",
+        "ingredients": [
+            "rice",
+            "flying fish roe",
+            "vegetables",
+            "seaweed"
+        ],
+        "nutrition": {
+            "carbs": "54",
+            "proteins": "14",
+            "fat": "13",
+            "calories": "500"
+        },
+        "price": "5900",
+        "allergens": [
+            "fish"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Byeoli Dali",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cheese Roe Rice Bowl",
+        "temperature": "hot",
+        "taste": "cheesy, savory, creamy",
+        "ingredients": [
+            "rice",
+            "cheese",
+            "flying fish roe",
+            "vegetables"
+        ],
+        "nutrition": {
+            "carbs": "55",
+            "proteins": "15",
+            "fat": "16",
+            "calories": "520"
+        },
+        "price": "6000",
+        "allergens": [
+            "fish",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Byeoli Dali",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pork Bulgogi Roe Rice Bowl",
+        "temperature": "hot",
+        "taste": "sweet, savory, smoky",
+        "ingredients": [
+            "rice",
+            "pork bulgogi",
+            "flying fish roe",
+            "vegetables"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "20",
+            "fat": "17",
+            "calories": "560"
+        },
+        "price": "6000",
+        "allergens": [
+            "fish",
+            "soy",
+            "pork"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Byeoli Dali",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Pork Roe Rice Bowl",
+        "temperature": "hot",
+        "taste": "spicy, savory, umami",
+        "ingredients": [
+            "rice",
+            "spicy pork",
+            "flying fish roe",
+            "vegetables"
+        ],
+        "nutrition": {
+            "carbs": "60",
+            "proteins": "21",
+            "fat": "18",
+            "calories": "580"
+        },
+        "price": "6500",
+        "allergens": [
+            "fish",
+            "soy",
+            "pork"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean Fusion",
+            "restaurant_name": "Byeoli Dali",
+            "location": "N"
+        }
+    }
+]
