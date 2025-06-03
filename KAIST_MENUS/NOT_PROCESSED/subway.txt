@@ -1,0 +1,18 @@
+Egg Mayo	4600	466
+Ham	4900	312
+Tuna	4900	366
+Meatball	5600	496
+BLT	5700	350
+Italian B.M.T.	5700	438
+Veggie	4100	259
+Turkey	5600	309
+Subway Club	6200	343
+Rotisserie BBQ Chicken	6400	377
+Roasted Chicken	6400	350
+Chicken Teriyaki	6000	364
+Spicy Italian	6000	514
+Shrimp	6200	279
+Pulled Pork BBQ	6300	377
+K-BBQ	6400	422
+Steak & Cheese	6900	405
+Turkey Bacon Avocado	6900	399

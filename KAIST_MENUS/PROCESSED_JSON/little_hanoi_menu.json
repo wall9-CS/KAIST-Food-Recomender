@@ -1,0 +1,226 @@
+[
+    {
+        "menu_name": "Pho",
+        "price": "4500",
+        "taste": "light, savory, aromatic",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Brisket Pho",
+        "price": "6000",
+        "taste": "savory, rich, comforting",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Beef Brisket Pho",
+        "price": "6500",
+        "taste": "spicy, savory, aromatic",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hanoi Stir-fried Noodles",
+        "price": "6500",
+        "taste": "savory, slightly sweet, smoky",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pineapple Fried Rice",
+        "price": "6500",
+        "taste": "sweet, savory, fruity",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vietnamese Fried Spring Rolls (Cha Gio)",
+        "price": "5400",
+        "taste": "crispy, savory, meaty",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cream Onion Chicken",
+        "price": "6400",
+        "taste": "creamy, savory, sweet",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hanoi Bun Cha",
+        "price": "9400",
+        "taste": "sweet, tangy, smoky",
+        "temperature": "hot",
+        "ingredients": [
+            "rice noodles",
+            "beef",
+            "herbs"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "14",
+            "fat": "10",
+            "calories": "480"
+        },
+        "allergens": [
+            "wheat",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Vietnamese",
+            "restaurant_name": "Little Hanoi",
+            "location": "N"
+        }
+    }
+]

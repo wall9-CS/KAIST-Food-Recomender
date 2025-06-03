@@ -1,0 +1,542 @@
+[
+    {
+        "menu_name": "Aglio e Olio",
+        "price": "5900",
+        "taste": "garlicky, oily, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vongole Pasta",
+        "price": "6900",
+        "taste": "light, salty, seafood",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seafood Oil Pasta",
+        "price": "7500",
+        "taste": "savory, seafood, garlicky",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tomato Pasta",
+        "price": "5900",
+        "taste": "tangy, sweet, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Tomato Brisket Pasta",
+        "price": "7900",
+        "taste": "spicy, rich, tangy",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Cream Pasta",
+        "price": "7900",
+        "taste": "spicy, creamy, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Rose Cream Shrimp Pasta",
+        "price": "7900",
+        "taste": "creamy, tangy, seafood",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Carbonara",
+        "price": "7900",
+        "taste": "creamy, cheesy, rich",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Seafood Cream Pasta",
+        "price": "7900",
+        "taste": "creamy, seafood, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Steak Cream Pasta",
+        "price": "8500",
+        "taste": "creamy, meaty, rich",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Rolling Hamburg Steak",
+        "price": "11400",
+        "taste": "meaty, sweet, juicy",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chopped Steak",
+        "price": "12900",
+        "taste": "savory, meaty, grilled",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Brisket Doria",
+        "price": "7500",
+        "taste": "cheesy, meaty, creamy",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Bacon Kimchi Doria",
+        "price": "7500",
+        "taste": "spicy, tangy, cheesy",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Bulgogi Pilaf",
+        "price": "7500",
+        "taste": "sweet, savory, smoky",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Steak Pilaf",
+        "price": "8000",
+        "taste": "meaty, garlicky, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Gorgonzola Pizza (S)",
+        "price": "6500",
+        "taste": "cheesy, sweet, nutty",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Margherita Pizza (S)",
+        "price": "6000",
+        "taste": "tomato, cheesy, fresh",
+        "temperature": "hot",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ricotta Cheese Salad",
+        "price": "5500",
+        "taste": "creamy, fresh, tangy",
+        "temperature": "cold",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Green Salad",
+        "price": "4500",
+        "taste": "fresh, light, mildly sweet",
+        "temperature": "cold",
+        "ingredients": [
+            "pasta",
+            "sauce"
+        ],
+        "nutrition": {
+            "carbs": "58",
+            "proteins": "13",
+            "fat": "15",
+            "calories": "520"
+        },
+        "allergens": [
+            "wheat",
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Italian Fusion",
+            "restaurant_name": "Rolling Pasta",
+            "location": "N"
+        }
+    }
+]

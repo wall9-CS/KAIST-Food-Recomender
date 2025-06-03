@@ -1,0 +1,2162 @@
+[
+    {
+        "menu_name": "Americano",
+        "price": "4500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Caffe Latte",
+        "price": "5000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cappuccino",
+        "price": "5000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Caramel Macchiato",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Dolce Latte",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cafe Mocha",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cafe Oat",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vanilla Caffe Latte",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Brew Coffee",
+        "price": "5200",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Americano",
+        "price": "4700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Caffe Latte",
+        "price": "5200",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Cafe Oat",
+        "price": "5700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Vanilla Caffe Latte",
+        "price": "5700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Cafe Mocha",
+        "price": "5700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Caramel Macchiato",
+        "price": "6100",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Dolce Latte",
+        "price": "6100",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Americhino Crush",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Americhino Breeze",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Chamomile Tea",
+        "price": "5200",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Earl Grey Reserve Tea",
+        "price": "5200",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cool Mint Tea",
+        "price": "5200",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Peach Oolong Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Crimson Punch",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Grapefruit Black Tea",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Aged Citron Chamomile Tea",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Peach Iced Tea",
+        "price": "5000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Zero Peach Iced Tea",
+        "price": "5000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Honey Lemon Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Rooibos Grapefruit Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Aged Red Ginseng Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hot Chocolate",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Iced Chocolate",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mint Chocolate Latte",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Latte",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Jeju Mandarin Latte",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Purple Sweet Potato Latte",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shine Muscat Sparkling Ade",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Sparkling Ade",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Red Grapefruit Sparkling Ade",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Earl Grey Milk Tea",
+        "price": "6300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Tomato Juice",
+        "price": "6500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Apple Juice",
+        "price": "7000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Carrot Apple Juice",
+        "price": "7000",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shine Muscat Juice",
+        "price": "8300",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Aribita Multivitamin Energy Shot",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Zero Sugar Apple Chamomile Tea",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Lactobacillus Yogurt Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Low Sugar Protein Choco Shake",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Low Sugar Protein Latte",
+        "price": "6400",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Decaf Low Sugar Protein Latte",
+        "price": "6600",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Zero Sugar Grapefruit Ade",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pikachu Banana Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Eve Milk Tea Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Metamong Blueberry Cake",
+        "price": "7500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Choux Cream Latte",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Banana Latte",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Juice",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hawaiian Berry Bowl",
+        "price": "7400",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Milky Vanilla Angel Milkshake",
+        "price": "6400",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Milky Vanilla Angel Espresso",
+        "price": "6400",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mango Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hallabong Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Shine Muscat Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Blueberry Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Yogurt Snow",
+        "price": "6700",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ginger Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Jujube Tea",
+        "price": "5500",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vanilla Cookie Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Java Chocolate Chip Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Jeju Malcha Snow",
+        "price": "6900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chocolate Latte",
+        "price": "5900",
+        "taste": [
+            "mild.a.01",
+            "sweetness.n.02",
+            "refresh.v.02"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "milk.n.01",
+            "syrup.n.01"
+        ],
+        "nutrition": {
+            "carbs": "40",
+            "proteins": "6",
+            "fat": "10",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Angel in us",
+            "location": "N"
+        }
+    }
+]

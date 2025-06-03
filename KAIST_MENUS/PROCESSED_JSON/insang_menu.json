@@ -1,0 +1,288 @@
+[
+    {
+        "menu_name": "Spicy Ox Bone Noodle Soup",
+        "price": "7500",
+        "taste": "spicy, rich, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ox Bone Noodle Soup",
+        "price": "7000",
+        "taste": "mild, rich, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Dumplings",
+        "price": "4000",
+        "taste": "soft, savory, juicy",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Insang Sundae Soup",
+        "price": "7500",
+        "taste": "meaty, savory, umami",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ox Bone Yukgaejang",
+        "price": "8000",
+        "taste": "spicy, peppery, hearty",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Hangover Soup",
+        "price": "8000",
+        "taste": "spicy, tangy, warming",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Insang Seolleongtang",
+        "price": "7000",
+        "taste": "milky, savory, mild",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Large Seolleongtang",
+        "price": "9000",
+        "taste": "milky, savory, hearty",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beef Tendon Seolleongtang",
+        "price": "9000",
+        "taste": "rich, gelatinous, savory",
+        "temperature": "hot",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Spicy Bibim Naengmyeon",
+        "price": "7000",
+        "taste": "spicy, tangy, chewy",
+        "temperature": "cold",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cold Naengmyeon",
+        "price": "7000",
+        "taste": "cold, tangy, refreshing",
+        "temperature": "cold",
+        "ingredients": [
+            "beef broth",
+            "noodles"
+        ],
+        "nutrition": {
+            "carbs": "48",
+            "proteins": "18",
+            "fat": "12",
+            "calories": "470"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Korean",
+            "restaurant_name": "Insang",
+            "location": "N"
+        }
+    }
+]

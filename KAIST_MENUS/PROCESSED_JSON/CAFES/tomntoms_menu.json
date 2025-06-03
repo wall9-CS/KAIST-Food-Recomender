@@ -1,0 +1,1829 @@
+[
+    {
+        "menu_name": "Espresso",
+        "price": "3900",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Americano",
+        "price": "4400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cafe Latte",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cappuccino",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vanilla Latte",
+        "price": "5400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Hazelnut Latte",
+        "price": "5400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cafe Mocha",
+        "price": "5400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Caramel Macchiato",
+        "price": "5400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Affogato",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kkund Latte",
+        "price": "4700",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Kkund Latte Stevia",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Blending Specialty",
+        "price": "6000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Earl Grey",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Rooibos Orange",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chamomile",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Peppermint",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Baby Green Tea",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Honey Grapefruit Earl Grey",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Honey Lemon Tea",
+        "price": "4800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Honey Citron Tea",
+        "price": "4800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Peach Iced Tea",
+        "price": "4400",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Ssanghwa Tea",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pear Ginger Tea",
+        "price": "5300",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Chocolate Latte",
+        "price": "4900",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cinnamon",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Green Mint Chocolate",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Green Latte",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "coffee",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Royal Milk Tea",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Smoothie",
+        "price": "5300",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mango Smoothie",
+        "price": "5300",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Blueberry Smoothie",
+        "price": "5300",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Plain Yogurt Smoothie",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Yogurt Smoothie",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Mango Yogurt Smoothie",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Blueberry Yogurt Smoothie",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Plain Yogurt",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Blueberry Yogurt",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Yogurt",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Granola Yogurt",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Strawberry Juice",
+        "price": "6000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Wheat Kale Cleanse Juice",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Carrot Apple Cleanse Juice",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Beet Pineapple Cleanse Juice",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Orange Grapefruit Cleanse Juice",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Vanilla TomNChino",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Green Tea TomNChino",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Green Mint Chocolate TomNChino",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cinnamon Chocolate TomNChino",
+        "price": "5800",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Walnut TomNChino",
+        "price": "6200",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Java Chip TomNChino",
+        "price": "6200",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Lemon Ade",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Grapefruit Ade",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Orange Ade",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Plain Pretzel",
+        "price": "4500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Original Pretzel",
+        "price": "4700",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Cream Cheese Pretzel",
+        "price": "5000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Pepperoni Pretzel",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Sweet Potato Pretzel",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Corn Pretzel",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Dog Pretzel",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Bulgogi Pretzel",
+        "price": "6600",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Honey Butter Bread",
+        "price": "6500",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    },
+    {
+        "menu_name": "Garlic Butter Bread",
+        "price": "6000",
+        "taste": [
+            "sweet",
+            "mild"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "250"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Tom&Toms",
+            "location": "N"
+        }
+    }
+]

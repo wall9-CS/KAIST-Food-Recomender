@@ -1,0 +1,560 @@
+[
+  {
+    "menu_name": "Egg Mayo",
+    "price": 4600,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 466
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": true,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "creamy",
+      "savory"
+    ]
+  },
+  {
+    "menu_name": "Ham",
+    "price": 4900,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 312
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "salty",
+      "smoky"
+    ]
+  },
+  {
+    "menu_name": "Tuna",
+    "price": 4900,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 366
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "savory",
+      "fishy"
+    ]
+  },
+  {
+    "menu_name": "Meatball",
+    "price": 5600,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 496
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "rich",
+      "spicy"
+    ]
+  },
+  {
+    "menu_name": "BLT",
+    "price": 5700,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 350
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "crispy",
+      "salty"
+    ]
+  },
+  {
+    "menu_name": "Italian B.M.T.",
+    "price": 5700,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 438
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "spicy",
+      "savory"
+    ]
+  },
+  {
+    "menu_name": "Veggie",
+    "price": 4100,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 259
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": true,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "fresh",
+      "light"
+    ]
+  },
+  {
+    "menu_name": "Turkey",
+    "price": 5600,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 309
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "mild",
+      "smoky"
+    ]
+  },
+  {
+    "menu_name": "Subway Club",
+    "price": 6200,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 343
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "savory",
+      "balanced"
+    ]
+  },
+  {
+    "menu_name": "Rotisserie BBQ Chicken",
+    "price": 6400,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 377
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "sweet",
+      "smoky"
+    ]
+  },
+  {
+    "menu_name": "Roasted Chicken",
+    "price": 6400,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 350
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "mild",
+      "juicy"
+    ]
+  },
+  {
+    "menu_name": "Chicken Teriyaki",
+    "price": 6000,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 364
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "sweet",
+      "umami"
+    ]
+  },
+  {
+    "menu_name": "Spicy Italian",
+    "price": 6000,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 514
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "spicy",
+      "bold"
+    ]
+  },
+  {
+    "menu_name": "Shrimp",
+    "price": 6200,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 279
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "fresh",
+      "seafood"
+    ]
+  },
+  {
+    "menu_name": "Pulled Pork BBQ",
+    "price": 6300,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 377
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "sweet",
+      "smoky"
+    ]
+  },
+  {
+    "menu_name": "K-BBQ",
+    "price": 6400,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 422
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "sweet",
+      "garlicky"
+    ]
+  },
+  {
+    "menu_name": "Steak & Cheese",
+    "price": 6900,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 405
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "hearty",
+      "cheesy"
+    ]
+  },
+  {
+    "menu_name": "Turkey Bacon Avocado",
+    "price": 6900,
+    "temperature": "cold",
+    "ingredients": [
+      "bread",
+      "vegetables",
+      "protein"
+    ],
+    "nutrition": {
+      "carbs": 45,
+      "proteins": 18,
+      "fat": 12,
+      "calories": 399
+    },
+    "allergens": [
+      "wheat",
+      "soy"
+    ],
+    "vegetarian": false,
+    "halal": false,
+    "restaurant": {
+      "cuisine": "Sandwich",
+      "restaurant_name": "SUBWAY",
+      "location": "E"
+    },
+    "taste": [
+      "creamy",
+      "smoky"
+    ]
+  }
+]
