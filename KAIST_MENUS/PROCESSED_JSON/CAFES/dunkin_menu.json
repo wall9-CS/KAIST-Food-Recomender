@@ -1,0 +1,122 @@
+[
+    {
+        "menu_name": "Glazed Donut",
+        "price": "1200",
+        "taste": [
+            "sweetness.n.02",
+            "soft.a.01",
+            "classic.a.01"
+        ],
+        "temperature": "room.n.01",
+        "ingredients": [
+            "flour.n.01",
+            "sugar.n.01",
+            "yeast.n.01"
+        ],
+        "nutrition": {
+            "carbs": "30",
+            "proteins": "3",
+            "fat": "10",
+            "calories": "250"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.n.01",
+            "milk.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Bakery",
+            "restaurant_name": "Dunkin",
+            "location": "W"
+        }
+    },
+    {
+        "menu_name": "Americano",
+        "price": "3000",
+        "taste": [
+            "bitter.a.01",
+            "aromatic.a.01"
+        ],
+        "temperature": "hot.a.01",
+        "ingredients": [
+            "coffee.n.01",
+            "water.n.01"
+        ],
+        "nutrition": {
+            "carbs": "0",
+            "proteins": "0",
+            "fat": "0",
+            "calories": "5"
+        },
+        "allergens": [],
+        "vegetarian": true,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Dunkin",
+            "location": "W"
+        }
+    },
+    {
+        "menu_name": "Bavarian Cream Donut",
+        "price": "1500",
+        "taste": [
+            "sweetness.n.02",
+            "creamy.s.01",
+            "soft.a.01"
+        ],
+        "temperature": "room.n.01",
+        "ingredients": [
+            "flour.n.01",
+            "sugar.n.01",
+            "cream.n.01"
+        ],
+        "nutrition": {
+            "carbs": "35",
+            "proteins": "4",
+            "fat": "12",
+            "calories": "320"
+        },
+        "allergens": [
+            "wheat.n.02",
+            "egg.n.01",
+            "milk.n.01"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Bakery",
+            "restaurant_name": "Dunkin",
+            "location": "W"
+        }
+    },
+    {
+        "menu_name": "Cold Brew Coffee",
+        "price": "3500",
+        "taste": [
+            "bitter.a.01",
+            "smooth.s.01"
+        ],
+        "temperature": "cold.a.02",
+        "ingredients": [
+            "coffee.n.01",
+            "water.n.01"
+        ],
+        "nutrition": {
+            "carbs": "1",
+            "proteins": "0",
+            "fat": "0",
+            "calories": "5"
+        },
+        "allergens": [],
+        "vegetarian": true,
+        "halal": true,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Dunkin",
+            "location": "W"
+        }
+    }
+]

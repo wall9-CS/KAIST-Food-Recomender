@@ -1,0 +1,1198 @@
+[
+    {
+        "menu_name": "Salty Gelato Caffe Latte",
+        "price": "6300",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "25",
+            "proteins": "8",
+            "fat": "4",
+            "calories": "305"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Tiramisu Gelato Caffe Latte",
+        "price": "6300",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "22",
+            "proteins": "3",
+            "fat": "9",
+            "calories": "251"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cacao Gelato Caffe Latte",
+        "price": "6300",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "36",
+            "proteins": "2",
+            "fat": "3",
+            "calories": "174"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Oat Cold Brew Float",
+        "price": "6500",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "57",
+            "proteins": "6",
+            "fat": "6",
+            "calories": "154"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Condensed Milk Cold Brew Float",
+        "price": "5900",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "53",
+            "proteins": "6",
+            "fat": "5",
+            "calories": "320"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cold Brew Latte",
+        "price": "5300",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "46",
+            "proteins": "3",
+            "fat": "9",
+            "calories": "336"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cold Brew Americano",
+        "price": "4800",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "33",
+            "proteins": "7",
+            "fat": "4",
+            "calories": "381"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cafe Hei Oat",
+        "price": "5800",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "27",
+            "proteins": "7",
+            "fat": "9",
+            "calories": "312"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Latte Macchiato (Caramel/Vanilla)",
+        "price": "5800",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "41",
+            "proteins": "2",
+            "fat": "4",
+            "calories": "371"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cafe Mocha",
+        "price": "5500",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "25",
+            "proteins": "5",
+            "fat": "10",
+            "calories": "224"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cappuccino",
+        "price": "5000",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "21",
+            "proteins": "6",
+            "fat": "7",
+            "calories": "192"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Cafe Latte",
+        "price": "5000",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "33",
+            "proteins": "2",
+            "fat": "8",
+            "calories": "352"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Americano",
+        "price": "4500",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "51",
+            "proteins": "8",
+            "fat": "2",
+            "calories": "237"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Espresso Solo",
+        "price": "3800",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "36",
+            "proteins": "4",
+            "fat": "8",
+            "calories": "277"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Espresso Macchiato",
+        "price": "4300",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "24",
+            "proteins": "4",
+            "fat": "9",
+            "calories": "296"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Affogato",
+        "price": "5500",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "3",
+            "fat": "9",
+            "calories": "273"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Coconut Coffee",
+        "price": "6500",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "57",
+            "proteins": "6",
+            "fat": "9",
+            "calories": "217"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Java Chip",
+        "price": "6300",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "21",
+            "proteins": "6",
+            "fat": "4",
+            "calories": "234"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Green Tea",
+        "price": "6300",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "53",
+            "proteins": "7",
+            "fat": "9",
+            "calories": "241"
+        },
+        "allergens": [
+            "none"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Sicilian Lemon",
+        "price": "6800",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "60",
+            "proteins": "7",
+            "fat": "6",
+            "calories": "323"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Shine Muscat",
+        "price": "6800",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "24",
+            "proteins": "7",
+            "fat": "5",
+            "calories": "390"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Strawberry",
+        "price": "6300",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "55",
+            "proteins": "3",
+            "fat": "7",
+            "calories": "375"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Peach",
+        "price": "6300",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "35",
+            "proteins": "3",
+            "fat": "2",
+            "calories": "296"
+        },
+        "allergens": [
+            "none"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Hibiscus Vin Chaud",
+        "price": "6500",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "7",
+            "fat": "6",
+            "calories": "174"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Grapefruit Juice",
+        "price": "6500",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "21",
+            "proteins": "6",
+            "fat": "5",
+            "calories": "179"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Schisandra",
+        "price": "6100",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "espresso",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "57",
+            "proteins": "4",
+            "fat": "5",
+            "calories": "268"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Brown Sugar Pearl Milk Tea",
+        "price": "5800",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "50",
+            "proteins": "8",
+            "fat": "9",
+            "calories": "177"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Milk Tea / Green Tea Latte",
+        "price": "5000",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "28",
+            "proteins": "5",
+            "fat": "3",
+            "calories": "232"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Chocolate Latte",
+        "price": "4500",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "21",
+            "proteins": "3",
+            "fat": "8",
+            "calories": "293"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Italian Chocolate Granata",
+        "price": "6900",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "54",
+            "proteins": "5",
+            "fat": "4",
+            "calories": "183"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Vanilla Bean Golden Latte",
+        "price": "6100",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "lemon",
+            "sparkling water"
+        ],
+        "nutrition": {
+            "carbs": "52",
+            "proteins": "4",
+            "fat": "8",
+            "calories": "266"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Italian Chocolate Golden Latte",
+        "price": "6700",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "38",
+            "proteins": "4",
+            "fat": "7",
+            "calories": "374"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Tomato Juice",
+        "price": "6000",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "34",
+            "proteins": "8",
+            "fat": "2",
+            "calories": "260"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Kiwi Juice",
+        "price": "6000",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "3",
+            "fat": "4",
+            "calories": "295"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Shine Sweetie Grapefruit Granata",
+        "price": "6900",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "tea",
+            "honey"
+        ],
+        "nutrition": {
+            "carbs": "57",
+            "proteins": "8",
+            "fat": "8",
+            "calories": "285"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Choco & Banana Gellanata",
+        "price": "7100",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "24",
+            "proteins": "7",
+            "fat": "7",
+            "calories": "303"
+        },
+        "allergens": [
+            "wheat"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Salt Caramel Gellanata",
+        "price": "6900",
+        "taste": [
+            "sweet",
+            "creamy"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "21",
+            "proteins": "6",
+            "fat": "2",
+            "calories": "164"
+        },
+        "allergens": [
+            "dairy"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Orange Tropical Granata",
+        "price": "6900",
+        "taste": [
+            "fruity",
+            "refreshing"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "55",
+            "proteins": "3",
+            "fat": "9",
+            "calories": "167"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Apple Chai Milk Tea",
+        "price": "6500",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "44",
+            "proteins": "7",
+            "fat": "5",
+            "calories": "169"
+        },
+        "allergens": [
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Purple Sweet Potato Latte",
+        "price": "5800",
+        "taste": [
+            "bitter",
+            "bold"
+        ],
+        "temperature": "cold",
+        "ingredients": [
+            "cocoa",
+            "milk"
+        ],
+        "nutrition": {
+            "carbs": "56",
+            "proteins": "7",
+            "fat": "7",
+            "calories": "251"
+        },
+        "allergens": [
+            "none"
+        ],
+        "vegetarian": false,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    },
+    {
+        "menu_name": "Apple Cinnamon Black Tea",
+        "price": "6500",
+        "taste": [
+            "nutty",
+            "smooth"
+        ],
+        "temperature": "hot",
+        "ingredients": [
+            "fruit",
+            "ice"
+        ],
+        "nutrition": {
+            "carbs": "60",
+            "proteins": "7",
+            "fat": "10",
+            "calories": "209"
+        },
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "vegetarian": true,
+        "halal": false,
+        "restaurant": {
+            "cuisine": "Cafe",
+            "restaurant_name": "Pascucci",
+            "location": "E"
+        }
+    }
+]
